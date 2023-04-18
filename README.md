@@ -6,7 +6,7 @@ For this challenge, I was tasked with refactoring the codebase for Horiseon, a m
 ## Table of Contents
 <Ol>
   <li>Work Completed</li>
-  <li>Usage</li>
+  <li>Screen Shot</li>
   <li>Contribute</li>
   </ol>
 
