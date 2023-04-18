@@ -24,12 +24,9 @@ For this challenge, I was tasked with refactoring the codebase for Horiseon, a m
 ## Deployed page
 https://jaldhara21.github.io/Horiseon/
 
-## Screenshot
-![Screen Shot 2023-04-18 at 11 24 40 AM](https://user-images.githubusercontent.com/129098874/232825729-0366fccd-59a3-4fcc-a943-f33a6253447b.png)
-![Screen Shot 2023-04-18 at 11 25 46 AM](https://user-images.githubusercontent.com/129098874/232825839-d39098fa-2e34-45e3-a0f2-a1818151d691.png)
-![Screen Shot 2023-04-18 at 11 26 05 AM](https://user-images.githubusercontent.com/129098874/232825905-65613001-4762-4cca-93c1-59762a232874.png)
-
-
+## Screen shot
+![Screen Shot 2023-04-18 at 11 33 42 AM](https://user-images.githubusercontent.com/129098874/232828240-33570b9f-455a-48a7-bcdb-f8fe5df01fdd.png)
+eenshot
 
 ## Contribution 
 Code refactoring completed by Jaldahara Patel.
