@@ -21,5 +21,8 @@ For this challenge, I was tasked with refactoring the codebase for Horiseon, a m
   <ol>Changed background color using css</ol>
 </ul>
 
+## Deployed page
+https://jaldhara21.github.io/Horiseon/
+
 ## Contribution 
 Code refactoring completed by Jaldahara Patel.
