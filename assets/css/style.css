@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Removed unnecessary class */
 header {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -186,7 +186,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Removed unnecessary class and added margin and background color*/
 footer {
     text-align:center;
     padding: 5px;
