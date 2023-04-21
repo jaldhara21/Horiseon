@@ -6,7 +6,7 @@ For this challenge, I was tasked with refactoring the codebase for Horiseon, a m
 ## Table of Contents
 <Ol>
   <li>Work Completed</li>
-  <li>Usage</li>
+  <li>Screen Shot</li>
   <li>Contribute</li>
   </ol>
 
@@ -20,6 +20,12 @@ For this challenge, I was tasked with refactoring the codebase for Horiseon, a m
   <ol>Removed unnecessary CSS classes</ol>
   <ol>Changed background color using css</ol>
 </ul>
+
+## Deployed page
+https://jaldhara21.github.io/Horiseon/
+
+## Screen shot
+![Screen Shot 2023-04-18 at 11 33 42 AM](https://user-images.githubusercontent.com/129098874/232828240-33570b9f-455a-48a7-bcdb-f8fe5df01fdd.png)
 
 ## Contribution 
 Code refactoring completed by Jaldahara Patel.
